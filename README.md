@@ -1,0 +1,1 @@
+This extension adds devtools panels that shows last request `sessionID` header parameter.
